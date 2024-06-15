@@ -1,6 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Gnaneshwar Adapa</h1>
 <h3 align="center">Innovative Developer | Continuously Learning and Evolving</h3>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Vidyut Rakshak**
 
@@ -10,7 +11,7 @@
 
 - 📫 How to reach me **gnanyadapa@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1G3w9722x5n--J-pC_xgRJp6QUsoYR34l/view?usp=sharing](https://drive.google.com/file/d/1G3w9722x5n--J-pC_xgRJp6QUsoYR34l/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1G3w9722x5n--J-pC_xgRJp6QUsoYR34l/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
