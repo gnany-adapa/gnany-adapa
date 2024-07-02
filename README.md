@@ -13,17 +13,19 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1G3w9722x5n--J-pC_xgRJp6QUsoYR34l/view?usp=sharing)
 
+- 🧾 Patent: [Vidyut Rakshak](https://github.com/gnany-adapa/Patents/blob/main/POWER%20LINE%20INSPECTION%20ROBOT%20PATENT.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gnanyadapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gnanyadapa" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gnanyadapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gnanyadapa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gnaneshwar-adapa-155171219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gnaneshwar-adapa-155171219" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/gnanyadapa7244" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gnanyadapa7244" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gnanyadapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gnanyadapa" height="30" width="40" /></a>
+<a href="https://twitter.com/gnanyadapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gnanyadapa" height="30" width="40" /></a>
 <a href="https://fb.com/gnanyadapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gnanyadapa" height="30" width="40" /></a>
 <a href="https://instagram.com/gnanyadapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gnanyadapa" height="30" width="40" /></a>
 <a href="https://medium.com/@gnanyadapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gnanyadapa" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/gnanyadapa7244" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gnanyadapa7244" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gnanyadapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gnanyadapa" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/gnanyadapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gnanyadapa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gnanyadapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gnanyadapa" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gnanyadapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gnanyadapa" height="30" width="40" /></a>
 </p>
 
